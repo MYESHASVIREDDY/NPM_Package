@@ -1,3 +1,4 @@
+## Description ##
 Auth-Engine-Navigation-Bar
 Auth-Engine-Navigation-Bar is an NPM package that 
 provides a collection of reusable React components for building 
